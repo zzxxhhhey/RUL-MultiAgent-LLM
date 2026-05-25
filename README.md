@@ -1,4 +1,3 @@
-Markdown
 # ⚙️ RUL-MultiAgent-LLM
 
 A Multi-Agent Collaborative System for Remaining Useful Life (RUL) Prediction based on Domain Generalization.
@@ -14,4 +13,4 @@ This project leverages the reasoning capabilities of Large Language Models (LLMs
 ## 📊 Current Progress
 - [x] Baseline setup for C-MAPSS FD002/FD004
 - [x] Integration of Time-Series Foundation Models API
-- [ ] Multi-Agent Debate Loop refinement (Current Token consumption is high, waiting for A
+- [ ] Multi-Agent Debate Loop refinement (Current Token consumption is high, waiting for API plan upgrade)
